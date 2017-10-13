@@ -25,7 +25,7 @@ Overview
 This workshop retrieves messages from a data file and collects them in a notification.  Each record in the data file contains a single message and ends with the same delimiting character. 
 
 The test data file contains:
-```dat
+```
  jim Workshop 5 is cool
  harry @jim working on workshop 5 now 
  chris
