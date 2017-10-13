@@ -1,10 +1,10 @@
 
-In line number 8 of your output:
+In line number 14 of your output:
 The output should be:
- User  : jim
+ Tweet : working on workshop 5 now
 But your output is: 
-User   :jim
-^
-|
-Professor's character ASCII code: hex(20), dec(32)
-un-matched character ASCII code: hex(55), dec(85)
+ Tweet : working on workshop 5 now 
+                                  ^
+----------------------------------|
+Professor's character ASCII code: hex(d), dec(13)
+un-matched character ASCII code: hex(20), dec(32)

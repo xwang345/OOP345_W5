@@ -1,28 +1,28 @@
-Script started on Fri 13 Oct 2017 01:32:36 AM EDT
+Script started on Fri 13 Oct 2017 09:53:53 AM EDT
 xwang345@matrix:~/OOP345/OOP345_W5> ws w5_test.dat 
 
 Notifications
 =============
 
 Message
-User   :jim
-Reply  :
-Tweet  :Workshop 5 is cool
+ User  : jim
+ Tweet : Workshop 5 is cool
 
 Message
-User   :harry
-Tweet  :working on workshop 5 now 
+ User  : harry
+ Reply : jim
+ Tweet : working on workshop 5 now
 
 Message
-User   :dave
-Reply  :
-Tweet  :what the ^#$%!
+ User  : dave
+ Tweet : what the ^#$%!
 
 Message
-User   :john
-Tweet  :I'm done
+ User  : john
+ Reply : harry
+ Tweet : I'm done
 
-xwang345@matrix:~/OOP345/OOP345_W5> gi[[[Kexit
+xwang345@matrix:~/OOP345/OOP345_W5> exit
 exit
 
-Script done on Fri 13 Oct 2017 01:33:28 AM EDT
+Script done on Fri 13 Oct 2017 09:53:59 AM EDT

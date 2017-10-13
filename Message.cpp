@@ -51,11 +51,12 @@ bool Message::empty() const {
 }
 
 void Message::display(std::ostream& os) const {
-    os << "Message\n";
-    os << "User   :" << name << "\n";
-    if (reply == "") {
-        os << "Reply  :" << reply << "\n";
+	os.clear();
+    os << "Message" << std::endl;
+    os << " User  : " << name << std::endl;
+    if (reply != "") {
+        os << " Reply : " << reply << std::endl;
     }
-    os << "Tweet  :" << tweet << "\n";
-    os << "\n";
+    os << " Tweet : " << tweet << '\r';
+    os << '\n' << '\n';
 }
