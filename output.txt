@@ -1,4 +1,4 @@
-Script started on Fri 13 Oct 2017 09:53:53 AM EDT
+Script started on Fri 13 Oct 2017 10:14:36 AM EDT
 xwang345@matrix:~/OOP345/OOP345_W5> ws w5_test.dat 
 
 Notifications
@@ -25,4 +25,4 @@ Message
 xwang345@matrix:~/OOP345/OOP345_W5> exit
 exit
 
-Script done on Fri 13 Oct 2017 09:53:59 AM EDT
+Script done on Fri 13 Oct 2017 10:14:46 AM EDT
