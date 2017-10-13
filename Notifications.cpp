@@ -1,7 +1,7 @@
-#include "Notifications.h"
 #include <fstream>
 #include <iostream>
 #include <string>
+#include "Notifications.h"
 using namespace w5;
 
 Notifications::Notifications()

@@ -1,0 +1,8 @@
+Student Name: Xiaochen Wang
+Student ID: 015297153
+
+In this workshop, I learned how to
+
+    1. Design and code a composition of objects
+    2. Read records from a file into a string object
+    3. Parse a string object into components based on simple rules

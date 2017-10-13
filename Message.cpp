@@ -1,7 +1,7 @@
-#include "Message.h"
 #include <fstream>
 #include <iostream>
 #include <string>
+#include "Message.h"
 using namespace w5;
 
 Message::Message() {
